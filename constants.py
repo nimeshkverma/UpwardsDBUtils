@@ -3,7 +3,6 @@ ORGANISATION_TYPE = [
     "Public Sector Undertaking",
     "Public Limited Company",
     "Private Limited Company",
-    "Director - Private Limited Company",
     "Partner - Partnership Form",
     "Proprietor - Proprietor Form",
     "Self Employed Professional (Non-Registered Entity)",
@@ -80,4 +79,35 @@ LENDER = [
         "lender_type": "nbfc",
         "allocation_limit": 200000
     }
+]
+
+LOAN_PURPOSE = [
+    "Two-Wheeler",
+    "Mobile",
+    "Home Construction, Renovation etc.",
+    "Family Function, Marriage etc.",
+    "Other"
+]
+
+PROFESSION_TYPE = [
+    "Retail Sales Associate",
+    "Account Assistant",
+    "BPO/Back Office Executive",
+    "Content Writer/Digital Marketing",
+    "Delivery Boy",
+    "Driver",
+    "Electrician/Plumber/Carpenter/Mechanic",
+    "Field Executive (Banks, BFSI etc.)",
+    "Housekeeping/Facility Management",
+    "Nurse/Caregiver/Physio",
+    "Office Boy/Govt. Peon",
+    "Retail Shop Owner/Business Owner",
+    "Business Development/Promo Staff",
+    "Security Guard",
+    "Telesales/Telemarketing",
+    "Others", "Factory Worker",
+    "Beautician/Salon Worker",
+    "Restaurant Staff",
+    "Hotel Staff",
+    "Others,"
 ]
